@@ -1,6 +1,6 @@
 ## Phone_Sales_Dashboard
 ---
-# Sales Performance Dashboard for Motorola
+# Sales Performance Dashboard
 
 ![Dashboard Snapshot](https://github.com/hussain-data/Phone_Sales_Dashboard/blob/eb89dce6b4fb3bd2675f310f419b0db360d28fe3/Screenshot%202025-09-13%20120333.png)
 
