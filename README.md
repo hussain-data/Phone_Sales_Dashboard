@@ -2,19 +2,16 @@
 ---
 # Sales Performance Dashboard for Motorola
 
-![Dashboard Screenshot](sd.pdf)
+![Dashboard Snapshot](https://github.com/hussain-data/Phone_Sales_Dashboard/blob/eb89dce6b4fb3bd2675f310f419b0db360d28fe3/Screenshot%202025-09-13%20120333.png)
 
 A comprehensive Power BI dashboard for analyzing and visualizing sales performance data. This dashboard provides key insights into sales trends, product performance, customer behavior, and regional sales distribution.
 
 ### 📋 Table of Contents
-- [Live Demo](#-live-demo)
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
 - [Data Source](#-data-source)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ### 🚀 Project Overview
 
@@ -54,7 +51,4 @@ To use this template, your dataset should contain the following fields:
 - `Payment_Method`: The method used for payment.
 - `Customer_Rating`: A rating from 1 to 5.
 
-
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
